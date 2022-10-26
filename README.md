@@ -1,9 +1,7 @@
 # BLΛCKIRIS
 
-
 ![BLΛCKIRIS](https://pbs.twimg.com/media/Ff-jWYvUcAMrvpM?format=png)
 ![BLΛCKIRIS](https://pbs.twimg.com/media/Ff-jWYxUAAA1ohT?format=png)
-![BLΛCKIRIS](https://pbs.twimg.com/media/Ffzlgh8aAAM04ka?format=jpg)
 
 <!--
 **blackirisangel/blackirisangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![BLΛCKIRIS](https://pbs.twimg.com/media/Ff-laWtUYAUmk7w?format=jpg)
-
+![BLΛCKIRIS](https://pbs.twimg.com/media/Ffzlgh8aAAM04ka?format=jpg)
 
 update readme.md
 -->
