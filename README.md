@@ -1,5 +1,6 @@
 # BLΛCKIRIS
 
+![BLΛCKIRIS](https://pbs.twimg.com/media/Ff-n4eYVIAAeFXd?format=jpg)
 ![BLΛCKIRIS](https://pbs.twimg.com/media/Ff-jWYvUcAMrvpM?format=png)
 ![BLΛCKIRIS](https://pbs.twimg.com/media/Ff-jWYxUAAA1ohT?format=png)
 
