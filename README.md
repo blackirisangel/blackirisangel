@@ -1,6 +1,5 @@
 # BLΛCKIRIS
 
-![BLΛCKIRIS](https://pbs.twimg.com/media/Ff-n4eYVIAAeFXd?format=jpg)
 ![BLΛCKIRIS](https://pbs.twimg.com/media/Ff-jWYvUcAMrvpM?format=png)
 ![BLΛCKIRIS](https://pbs.twimg.com/media/Ff-jWYxUAAA1ohT?format=png)
 
@@ -20,6 +19,7 @@ Here are some ideas to get you started:
 
 ![BLΛCKIRIS](https://pbs.twimg.com/media/Ff-laWtUYAUmk7w?format=jpg)
 ![BLΛCKIRIS](https://pbs.twimg.com/media/Ffzlgh8aAAM04ka?format=jpg)
+![BLΛCKIRIS](https://pbs.twimg.com/media/Ff-n4eYVIAAeFXd?format=jpg)
 
 update readme.md
 -->
